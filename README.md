@@ -1,7 +1,6 @@
 # aws-cp-exam
 
-1. **Amazon EC2 (Elastic Compute Cloud):** This service provides resizable compute capacity in the cloud, allowing you to quickly and easily scale capacity up or down as needed. 
-> Keywords: virtual servers, instances, auto-scaling.
+1. **Amazon EC2 (Elastic Compute Cloud):** This service provides resizable compute capacity in the cloud, allowing you to quickly and easily scale capacity up or down as needed. > Keywords: virtual servers, instances, auto-scaling.
 
 2. **Amazon S3 (Simple Storage Service):** This service provides highly durable and scalable object storage in the cloud. Keywords: buckets, objects, data lakes.
 
